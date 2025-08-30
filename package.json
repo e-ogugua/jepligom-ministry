@@ -1,0 +1,18 @@
+{
+  "name": "jepligom-ministry",
+  "version": "1.0.0",
+  "description": "[Add description here]",
+  "author": "Emmanuel Chukwuka Ogugua <emmachuka@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Development server not yet configured'",
+    "build": "echo 'Build not yet configured'",
+    "start": "echo 'Start not yet configured'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-ogugua/jepligom-ministry.git"
+  },
+  "homepage": "https://jepligom-ministry.e.ogugua.dev"
+}
