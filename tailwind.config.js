@@ -42,12 +42,24 @@ export default {
           700: '#b45309',
           800: '#92400e',
           900: '#78350f',
-        }
+        },
+        'gold-300': '#fcd34d', // Adding gold-300 explicitly
+        'gold-400': '#fbbf24',
       },
       fontFamily: {
         'serif': ['Georgia', 'serif'],
         'sans': ['Inter', 'system-ui', 'sans-serif'],
-      }
+        'playfair': ['Playfair Display', 'serif'],
+      },
+      animation: {
+        'fade-in': 'fadeIn 1s ease-in-out',
+      },
+      keyframes: {
+        fadeIn: {
+          '0%': { opacity: '0' },
+          '100%': { opacity: '1' },
+        },
+      },
     },
   },
   plugins: [],
